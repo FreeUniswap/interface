@@ -4,7 +4,7 @@ Disallow: /static/js/
 Allow: /
 
 # Host
-Host: https://app.uniswap.org
+Host: https://app.freeuniswap.org
 
 # Sitemaps
-Sitemap: https://app.uniswap.org/sitemap.xml
+Sitemap: https://app.freeuniswap.org/sitemap.xml
