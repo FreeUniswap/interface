@@ -1,4 +1,4 @@
-# Uniswap Labs Interface
+# Uniswap Free Interface
 
 [![codecov](https://codecov.io/gh/Uniswap/interface/branch/main/graph/badge.svg?token=YVT2Y86O82)](https://codecov.io/gh/Uniswap/interface)
 
