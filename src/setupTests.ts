@@ -24,7 +24,7 @@ if (typeof global.TextEncoder === 'undefined') {
 
 // Sets origin to the production origin, because some tests depend on this.
 // This prevents each test file from needing to set this manually.
-global.origin = 'https://app.uniswap.org'
+global.origin = 'https://app.freeuniswap.org'
 
 global.matchMedia =
   global.matchMedia ||

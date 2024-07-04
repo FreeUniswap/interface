@@ -11,7 +11,7 @@ const { RetryChunkLoadPlugin } = require('webpack-retry-chunk-load-plugin')
 const commitHash = execSync('git rev-parse HEAD').toString().trim()
 const isProduction = process.env.NODE_ENV === 'production'
 
-process.env.REACT_APP_GIT_COMMIT_HASH = commitHash
+process.env.REACT_APP_GIT_COMMIT_HASH = "f62e9c829c93ca43914f8506fac9ba06ee84ce5b"
 
 // Linting and type checking are only necessary as part of development and testing.
 // Omit them from production builds, as they slow down the feedback loop.
